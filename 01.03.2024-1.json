@@ -1,0 +1,25 @@
+{
+    "name": "Charles Downs",
+    "age": 28,
+    "address": {
+        "street": "Mary Dam",
+        "city": "Lake Karen",
+        "state": "New Hampshire",
+        "zip": "67478"
+    },
+    "contact": {
+        "phone": "001-606-312-4714x84942",
+        "servicePhone": "800252859"
+    },
+    "birthday": "1997-10-07",
+    "ip": "44.212.9.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Clear term door eight. Good improve world everybody everyone avoid sound. Let director young unit.",
+        "bio": "Available reflect generation country firm third stuff democratic.\nOil response someone American system just. Result maybe game size. Media civil dark when serious."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
