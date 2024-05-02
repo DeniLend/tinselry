@@ -1,0 +1,25 @@
+{
+    "name": "William Bishop",
+    "age": 104,
+    "address": {
+        "street": "Morgan Land",
+        "city": "Thomasshire",
+        "state": "Maryland",
+        "zip": "53212"
+    },
+    "contact": {
+        "phone": "(751)880-1233",
+        "servicePhone": "800082997"
+    },
+    "birthday": "1921-18-02",
+    "ip": "198.135.13.61",
+    "foo": "bar",
+    "profile": {
+        "about": "By push raise scientist. Himself at agency sort.\nTime financial probably performance consumer. Capital arrive surface eat change. Six peace family push.",
+        "bio": "Thought condition live price write. Card spring good than local difficult door.\nNone mouth American source almost. Its hope tell nature reveal shake blood."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
