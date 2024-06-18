@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Fuller",
+    "age": 61,
+    "address": {
+        "street": "Alexander Ville",
+        "city": "Scottmouth",
+        "state": "Massachusetts",
+        "zip": "05467"
+    },
+    "contact": {
+        "phone": "379-607-7561x3760",
+        "servicePhone": "800143725"
+    },
+    "birthday": "1964-08-11",
+    "ip": "10.125.228.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Language run yard senior customer degree challenge. Seem glass security treatment long why any. To evening know huge.\nOk society reality two scene campaign. Avoid agree attorney sell hard.",
+        "bio": "Ten so serious forward. Cell pretty board especially whether. Threat manage often.\nCompare decade writer pressure respond you left. Could yard see source. Easy to walk allow else wall."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
