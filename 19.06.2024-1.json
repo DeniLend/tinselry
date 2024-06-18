@@ -1,0 +1,25 @@
+{
+    "name": "John Hartman",
+    "age": 56,
+    "address": {
+        "street": "James Land",
+        "city": "East Jennifer",
+        "state": "South Dakota",
+        "zip": "62702"
+    },
+    "contact": {
+        "phone": "001-630-399-2861",
+        "servicePhone": "800252017"
+    },
+    "birthday": "1969-24-05",
+    "ip": "198.249.184.148",
+    "foo": "bar",
+    "profile": {
+        "about": "I perform stock in little perhaps nor remain. Staff sell factor suffer enjoy record something.\nAttack than position add spring since fill. Reflect describe boy speak.",
+        "bio": "Forward factor system information eye father. Ahead kitchen family bring. Agency for company once your."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
