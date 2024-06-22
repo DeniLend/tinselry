@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mitchell",
+    "age": 88,
+    "address": {
+        "street": "Shannon Parkways",
+        "city": "East Yolanda",
+        "state": "Florida",
+        "zip": "87467"
+    },
+    "contact": {
+        "phone": "(738)508-4612x72950",
+        "servicePhone": "800025928"
+    },
+    "birthday": "1937-17-02",
+    "ip": "42.250.0.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Form people education minute middle effort. Book evening speech big open one card. Sing exist particular.\nSound smile thus full. Life capital real again instead finish.",
+        "bio": "Happen speak major friend. Social behind room realize property attorney parent. Enough wrong skill type understand."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
