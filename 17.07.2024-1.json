@@ -1,0 +1,25 @@
+{
+    "name": "John Thomas",
+    "age": 101,
+    "address": {
+        "street": "Alex Expressway",
+        "city": "Markborough",
+        "state": "Tennessee",
+        "zip": "48106"
+    },
+    "contact": {
+        "phone": "860-604-4700x49982",
+        "servicePhone": "800729196"
+    },
+    "birthday": "1924-28-03",
+    "ip": "30.102.111.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Book avoid say require manage say. Maybe base side truth.\nMust fine material. Language seem because wife.\nStrong admit eight whether total group American. Herself imagine rock music general.",
+        "bio": "Better next significant seem film. Others right on cup news TV."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
