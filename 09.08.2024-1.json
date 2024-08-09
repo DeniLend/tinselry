@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Mccormick",
+    "age": 25,
+    "address": {
+        "street": "Hernandez Points",
+        "city": "East Jennifer",
+        "state": "Washington",
+        "zip": "88280"
+    },
+    "contact": {
+        "phone": "+1-512-300-9514",
+        "servicePhone": "800207344"
+    },
+    "birthday": "2000-24-11",
+    "ip": "44.21.7.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Six cold material daughter look fear establish. Choose term include reach reach risk here. Value news wind own still affect.\nMarriage process lawyer they. Whose it letter people shoulder.",
+        "bio": "Movie form between speech. Draw Republican never discuss inside cell cost.\nMight so stuff plant claim specific. Agreement information ten easy."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
