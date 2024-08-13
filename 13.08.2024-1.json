@@ -1,0 +1,25 @@
+{
+    "name": "Bill Rivera",
+    "age": 65,
+    "address": {
+        "street": "Smith Roads",
+        "city": "Rodrigueztown",
+        "state": "Wisconsin",
+        "zip": "93082"
+    },
+    "contact": {
+        "phone": "(381)967-3970x84410",
+        "servicePhone": "800656352"
+    },
+    "birthday": "1960-08-05",
+    "ip": "151.253.19.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Sense hard police record movie stage. Effort interview he fine fear early capital. Capital concern matter.\nPerhaps food side soldier save yet happy machine. Mention anything face become chance.",
+        "bio": "Agree growth us total campaign security whom. Return long success budget drop since.\nPlace ahead beyond finish visit sense. Art toward ok difficult."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
