@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Kelli Zamora",
+    "age": 75,
+    "address": {
+        "street": "Brooks Ridge",
+        "city": "New Gabriela",
+        "state": "Illinois",
+        "zip": "72883"
+    },
+    "contact": {
+        "phone": "601-980-9245x1308",
+        "servicePhone": "800914797"
+    },
+    "birthday": "1950-10-05",
+    "ip": "184.23.209.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Nature low conference company marriage yeah.",
+        "bio": "Worker grow ask Congress enter rule doctor win. Sound sure who off. Professor result season rest daughter order five blue."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
