@@ -1,0 +1,25 @@
+{
+    "name": "Amy Spears",
+    "age": 27,
+    "address": {
+        "street": "Raymond Station",
+        "city": "New Craigfort",
+        "state": "Nebraska",
+        "zip": "49523"
+    },
+    "contact": {
+        "phone": "2773988243",
+        "servicePhone": "800524194"
+    },
+    "birthday": "1998-27-10",
+    "ip": "43.78.196.76",
+    "foo": "bar",
+    "profile": {
+        "about": "So represent campaign young blood these. Red state still difference. Action summer actually if.\nPossible move itself glass. Research course consumer account.",
+        "bio": "Over suffer same line age. Myself section parent structure air. Enough say full Democrat sure.\nNews blue threat weight service training. Nature between unit pay. Enter media push charge hour state."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
