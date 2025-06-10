@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Frazier",
+    "age": 89,
+    "address": {
+        "street": "Ferrell Mews",
+        "city": "Morrisstad",
+        "state": "California",
+        "zip": "91466"
+    },
+    "contact": {
+        "phone": "816-835-6554x5538",
+        "servicePhone": "800659423"
+    },
+    "birthday": "1936-10-11",
+    "ip": "142.183.138.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Itself structure receive responsibility question.\nCall lawyer teach join. Red yard there once with clear situation. Window property city agent.",
+        "bio": "Particularly anything study mission open compare. Ever college process way again. Her here expert site southern.\nLike whose I between western boy day."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
