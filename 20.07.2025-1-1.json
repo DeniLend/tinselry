@@ -1,0 +1,25 @@
+{
+    "name": "Shaun Tran",
+    "age": 21,
+    "address": {
+        "street": "Mccann Passage",
+        "city": "Port Meganmouth",
+        "state": "Utah",
+        "zip": "76721"
+    },
+    "contact": {
+        "phone": "668.686.5139x425",
+        "servicePhone": "800829624"
+    },
+    "birthday": "2004-25-05",
+    "ip": "43.60.110.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Send Republican expert.\nThese tax maintain best. Boy course account bring. Speech determine wrong affect ok professor trial magazine.",
+        "bio": "Capital campaign return offer but full other. Democratic day throw all but."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
