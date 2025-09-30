@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Jones",
+    "age": 26,
+    "address": {
+        "street": "Kelly Cliff",
+        "city": "Meganberg",
+        "state": "Georgia",
+        "zip": "04444"
+    },
+    "contact": {
+        "phone": "(421)279-4855x3356",
+        "servicePhone": "800224627"
+    },
+    "birthday": "1999-26-05",
+    "ip": "6.149.130.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Teacher daughter rock rate after south democratic account. Enough finally word defense instead thank vote.\nDemocrat everybody family. Who read during film. Power executive relate.",
+        "bio": "Say girl floor could performance.\nChance life involve question. Agency ask sometimes. Least we work talk hour score. Hand trade safe.\nTop single meet sign clear return. Thus skin short edge."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}

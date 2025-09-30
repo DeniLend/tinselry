@@ -1,0 +1,25 @@
+{
+    "name": "Mariah King",
+    "age": 21,
+    "address": {
+        "street": "Thomas Ramp",
+        "city": "Port Georgeland",
+        "state": "Minnesota",
+        "zip": "59109"
+    },
+    "contact": {
+        "phone": "(623)237-6060x004",
+        "servicePhone": "800528377"
+    },
+    "birthday": "2004-15-12",
+    "ip": "11.76.118.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain account own street. Star boy staff near clear bit.\nWeight again grow need stop and vote. Fear production argue if tree air. Position beyond star interesting play fish.",
+        "bio": "Thank small I surface everyone then be. Director sense owner entire upon project ok.\nEye at put street walk nor interest. Cut sort key Republican. Rather wind unit international item."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
