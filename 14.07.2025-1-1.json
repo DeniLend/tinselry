@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Bryant",
+    "age": 6,
+    "address": {
+        "street": "Zachary Common",
+        "city": "Port Makaylabury",
+        "state": "Arizona",
+        "zip": "92433"
+    },
+    "contact": {
+        "phone": "711-801-3569x715",
+        "servicePhone": "800203561"
+    },
+    "birthday": "2019-30-07",
+    "ip": "96.36.218.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Next style might officer form lose. Car take early month capital capital final response. Trial wear red rise able.\nDoctor trade authority popular. Operation dark good cover.",
+        "bio": "Answer occur year way. Why movement both sea. Throughout statement method statement hour."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
