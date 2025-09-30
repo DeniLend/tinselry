@@ -1,0 +1,25 @@
+{
+    "name": "Michele Adams",
+    "age": 78,
+    "address": {
+        "street": "King Trail",
+        "city": "Scottport",
+        "state": "Iowa",
+        "zip": "48549"
+    },
+    "contact": {
+        "phone": "+1-822-536-1904",
+        "servicePhone": "800671444"
+    },
+    "birthday": "1947-07-04",
+    "ip": "106.123.51.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Why key energy option research nor. Cultural argue play suggest night drop. Create surface him mention himself public between sit.",
+        "bio": "Few place method. Another down big.\nSource pull begin protect only when spend. Little agreement film including term four.\nIdentify world which class baby. Decade health range member effort program."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}

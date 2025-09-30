@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Merritt",
+    "age": 77,
+    "address": {
+        "street": "Donna Mission",
+        "city": "Jonestown",
+        "state": "Arizona",
+        "zip": "64529"
+    },
+    "contact": {
+        "phone": "+1-274-529-5217",
+        "servicePhone": "800492011"
+    },
+    "birthday": "1948-25-09",
+    "ip": "7.98.68.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Market per nation serve. Yes need kitchen customer century. Return make need rich study and decade. Here join coach remain plant life.\nWhy check eye hope moment seek. Deal federal rate your.",
+        "bio": "New own we PM in recent whether. Order never drug cold. Direction factor friend. More control table.\nLeg however garden address attack. Rise figure citizen nature husband many."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}

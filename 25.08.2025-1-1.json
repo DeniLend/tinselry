@@ -1,0 +1,25 @@
+{
+    "name": "Martha Cardenas",
+    "age": 27,
+    "address": {
+        "street": "Zavala Coves",
+        "city": "South Donald",
+        "state": "Alaska",
+        "zip": "55319"
+    },
+    "contact": {
+        "phone": "001-832-739-2750",
+        "servicePhone": "800794443"
+    },
+    "birthday": "1998-21-07",
+    "ip": "15.178.151.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Idea employee pass woman turn first agree.\nPresent too exist put. Stay down determine child during page. Lay hour executive operation. Phone deal up campaign.",
+        "bio": "According those card. Now goal official partner huge clear. Trip computer leave husband religious direction speak."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
