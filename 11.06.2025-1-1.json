@@ -1,0 +1,25 @@
+{
+    "name": "John May",
+    "age": 77,
+    "address": {
+        "street": "Frank Island",
+        "city": "West Deborahberg",
+        "state": "Arkansas",
+        "zip": "27063"
+    },
+    "contact": {
+        "phone": "960.451.1038x5141",
+        "servicePhone": "800757124"
+    },
+    "birthday": "1948-04-04",
+    "ip": "138.219.92.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Must friend institution high guy. Popular see organization who international rich rule. Leader fight stuff product rich contain.",
+        "bio": "Public wrong particular prove drive should thank. Community but ten home most director buy.\nSkin especially sort all individual energy ever TV. Nearly my woman."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
