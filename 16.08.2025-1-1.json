@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Smith",
+    "age": 12,
+    "address": {
+        "street": "Alex Mews",
+        "city": "West Jillian",
+        "state": "Arizona",
+        "zip": "41134"
+    },
+    "contact": {
+        "phone": "582-666-0861x299",
+        "servicePhone": "800406575"
+    },
+    "birthday": "2013-13-06",
+    "ip": "27.97.254.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold family beautiful company. Exactly fear green to.\nHis past in key gas animal. Well task sit letter edge lot.",
+        "bio": "Hear magazine help can their. Focus put include could so second. Less class agent room issue nation.\nThousand loss author design professional respond maintain bit."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
